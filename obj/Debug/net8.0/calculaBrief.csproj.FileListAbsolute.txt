@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\bin\Debug\net8.0\calculaBrief.exe
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\bin\Debug\net8.0\calculaBrief.deps.json
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\bin\Debug\net8.0\calculaBrief.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\bin\Debug\net8.0\calculaBrief.dll
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\bin\Debug\net8.0\calculaBrief.pdb
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\calculaBrief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\calculaBrief.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\calculaBrief.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\calculaBrief.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\calculaBrief.dll
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\refint\calculaBrief.dll
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\calculaBrief.pdb
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\calculaBrief.genruntimeconfig.cache
+C:\Users\Utilisateur\source\repos\calculaBrief\calculaBrief\obj\Debug\net8.0\ref\calculaBrief.dll
